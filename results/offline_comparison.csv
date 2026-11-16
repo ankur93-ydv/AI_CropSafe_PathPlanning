@@ -1,0 +1,5 @@
+Algorithm,Path Length (steps),Path Cost (penalised),Nodes Expanded,Time Mean (ms),Time Std (ms),Goal Reached
+BFS,28,68.0,118,2.8068,0.7383,Yes
+DFS,42,124.0,43,0.8831,0.2307,Yes
+Greedy Best-First,32,96.0,38,0.7064,0.0979,Yes
+A*,28,28.0,80,2.1172,0.422,Yes
