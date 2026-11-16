@@ -21,9 +21,9 @@ Key capabilities implemented in this system:
 
 | Name | Roll No. | Contribution |
 |---|---|---|
-| *[Student Name 1]* | *[Roll No. 1]* | Field environment, problem formulation, and visualization |
-| *[Student Name 2]* | *[Roll No. 2]* | Search algorithms (BFS, DFS, Greedy, A\*) & heuristic design |
-| *[Student Name 3]* | *[Roll No. 3]* | Crop-safe penalty modeling, dynamic replanning & benchmarking |
+| *[Aniket Vershney]* | *[BT24CSA035]* | Field environment, problem formulation, and visualization |
+| *[Abhi Jain]* | *[BT24CSA057]* | Search algorithms (BFS, DFS, Greedy, A\*) & heuristic design |
+| *[Ankur Yadav]* | *[BT24CSA051]* | Crop-safe penalty modeling, dynamic replanning & benchmarking |
 
 ---
 
